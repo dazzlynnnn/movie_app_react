@@ -29,10 +29,10 @@
 
 .movies {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 50px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 30px;
     grid-row-gap: 1em;
-    padding: 50px;
-    padding-top: 70px;
+    padding: 30px;
+    padding-top: 50px;
     width: 100%;
 }
